@@ -1,5 +1,7 @@
 [Try out the Google Colab notebook here!](https://colab.research.google.com/drive/10WS1AgyL8DOUw14TFzkvZjn6aBKd5KYN)
 
+![Similar images between training and testing](example_images/pants.png)
+
 # Fair-Fashion-MNIST
 
 Fair-Fashion-MNIST proposes a modified [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset with very similar images removed. 
